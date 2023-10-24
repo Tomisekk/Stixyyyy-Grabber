@@ -1,4 +1,3 @@
-# Stixyyyy-Grabber
 <img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
@@ -89,4 +88,3 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 -   Join the [Discord](https://discord.gg/GudVbfd9ZU)
 
 <img src="img/footer.png">
-
